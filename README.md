@@ -18,8 +18,8 @@ list collects the tools, libraries, and methodology that make that real.
 
 ## Windows-native attestation
 - [zqm-attestation-toolkit](https://github.com/ZQM-Labs/zqm-attestation-toolkit) — Forensic PowerShell suite producing CMS-signed, SHA256-anchored machine-health reports. Independent 2nd-method verification discipline. *(Maintained by ZQM-Computing.)*
-- [zqm-public-tools](https://github.com/ZQM-Computing/zqm-public-tools) — Sanitized PowerShell helpers for Windows attestation (safe subset of the toolkit).
-- [zqm-security-policy](https://github.com/ZQM-Computing/zqm-security-policy) — Baseline Windows endpoint posture rules (policy-as-code).
+- [zqm-public-tools](https://github.com/ZQM-Labs/zqm-public-tools) — Sanitized PowerShell helpers for Windows attestation (safe subset of the toolkit).
+- [zqm-security-policy](https://github.com/ZQM-Labs/zqm-security-policy) — Baseline Windows endpoint posture rules (policy-as-code).
 
 ## TPM & crypto libraries
 - [google/go-attestation](https://github.com/google/go-attestation) — Libraries to abstract TPM interaction for attestation (Go).
@@ -29,7 +29,7 @@ list collects the tools, libraries, and methodology that make that real.
 ## Supply-chain attestation
 - [in-toto/witness](https://github.com/in-toto/witness) — Pluggable framework for software supply-chain risk management & verification.
 - [chainloop-dev/chainloom](https://github.com/chainloop-dev/chainloop) — SDLC evidence store & policy engine for supply-chain attestation.
-- [zqm-attestation-briefs](https://github.com/ZQM-Computing/zqm-attestation-briefs) — Buyer-facing attestation methodology & sample outputs.
+- [zqm-attestation-briefs](https://github.com/ZQM-Labs/zqm-attestation-briefs) — Buyer-facing attestation methodology & sample outputs.
 
 ## DFIR & endpoint integrity
 - [LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) — Living Off The Land Binaries, Scripts and Libraries (attestation baselines must account for these).
