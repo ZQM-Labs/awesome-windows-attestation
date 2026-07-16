@@ -14,7 +14,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - run: mkdir -p site && cp -R docs/* site/ 2>/dev/null || true
       - uses: actions/upload-pages-artifact@v5
         with:
