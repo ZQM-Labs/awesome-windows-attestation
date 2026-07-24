@@ -52,3 +52,13 @@ Keep entries specific and link to source.
 
 ## License
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain.
+
+## Commercial Licensing & Procurement
+
+This repository is free for personal and audit use under its stated license. Enterprise procurement, retainers, and add-on tiers are available:
+
+- Pricing & SKUs: [COMMERCIAL.md](COMMERCIAL.md) · [SKU_CATALOG.md](SKU_CATALOG.md)
+- Start a purchase: open a [Purchase request](https://github.com/ZQM-Labs/awesome-windows-attestation/issues/new?template=purchase_request.yml) issue
+- Contact: zqmcomputing@gmail.com
+
+All deliverables are CMS-signed and independently verifiable.
