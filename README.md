@@ -1,5 +1,8 @@
 # Awesome Windows Attestation [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d1b8710/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![CI](https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/ci.yml/badge.svg)](https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/ci.yml) [![Tests](https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/tests.yml/badge.svg)](https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/tests.yml) [![Ruff](https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/ci.yml/badge.svg)](https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/ci.yml) [![mypy](https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/ci.yml/badge.svg)](https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/ci.yml)
+
+
 <p align="left">
   <img src="https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/ci.yml/badge.svg" alt="CI" />
   <img src="https://img.shields.io/badge/tests-passing-brightgreen" alt="Tests" />
