@@ -1,5 +1,13 @@
 # Awesome Windows Attestation [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d1b8710/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<p align="left">
+  <img src="https://github.com/ZQM-Labs/awesome-windows-attestation/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  <img src="https://img.shields.io/badge/tests-passing-brightgreen" alt="Tests" />
+  <img src="https://img.shields.io/badge/ruff-passing-blue" alt="Ruff" />
+  <img src="https://img.shields.io/badge/mypy-passing-blue" alt="Mypy" />
+</p>
+
+
 > A curated list of Windows attestation, endpoint integrity, TPM / CMS-signed
 > reporting, DFIR, and post-quantum readiness tooling.
 
